@@ -9,6 +9,10 @@ ILS info and approaches are missing as well.
 
 I basically made this for myself to be able to fly from here but why not share it with anyone who wants the same?
 
+Installation:
+
+Download zip and place the folder "senchay-edds01" to community folder (not the whole thing that downloads, only that named folder)
+
 Next things to come soon:
 
 v 0.2
