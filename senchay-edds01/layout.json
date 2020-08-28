@@ -1,0 +1,19 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/senchay-edds01/Thumbnail.jpg",
+      "size": 40767,
+      "date": 132431029513710944
+    },
+    {
+      "path": "manifest.json",
+      "size": 299,
+      "date": 132431079855891956
+    },
+    {
+      "path": "scenery/edds01.bgl",
+      "size": 2679,
+      "date": 132431228397808819
+    }
+  ]
+}
