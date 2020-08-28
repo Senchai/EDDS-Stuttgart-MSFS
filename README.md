@@ -9,8 +9,6 @@ ILS info and approaches are missing as well.
 
 I basically made this for myself to be able to fly from here but why not share it with anyone who wants the same?
 
-PLEASE, dont write about bugs or improvments, they will come.
-
 Next things to come soon:
 
 v 0.2
